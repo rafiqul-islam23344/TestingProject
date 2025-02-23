@@ -1,3 +1,55 @@
+# Project_API_Testing report 01
+<h3><a href="https://newmanreport01.netlify.app/"> Click here to see the newman report </a></h3>
+
+# Project_API_Testing report 02
+<h3><a href="https://newmanreport02.netlify.app/"> Click here to see the newman report </a></h3>
+
+# Project_performance_Testing report 
+<h3><a href="https://performancetestreport01.netlify.app/"> Click here to see the newman report </a></h3>
+
+
+
+
+
+
+# Test_case_Bug_report_Tes_summary _Mind_map
+
+# Test Case Works for QASE
+
+### Test Cases
+
+Some of the samples of the Test Cases.
+
+<p align="center">
+  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/test_case.png" />
+</p>
+
+### Bug Report
+
+Some of the samples of the Bug Report.
+
+<p align="center">
+  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/bug_report.png" />
+</p>
+
+
+### Bug summary
+Some of the samples of the test summary.
+<p align="center">
+  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/test_summary.png" />
+</p>
+
+
+### Mind map
+Some of the samples of the mind map.
+<p align="center">
+  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/mind_map.png" />
+</p>
+
+
+
+
+
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=30&pause=1000&color=&width=1200&height=50&lines=👋+Hi,+I'm+Rafiqul+Islam" alt="Typing SVG" />
